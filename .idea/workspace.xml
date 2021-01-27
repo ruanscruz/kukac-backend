@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec06c3f6-bea4-46c2-aeb9-0cd13474dc49" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nd298gQgRqNe1fYkmJ1ivZmRtW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/controllers/transacao" />
+      <recent name="$PROJECT_DIR$/src/controllers" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec06c3f6-bea4-46c2-aeb9-0cd13474dc49" name="Default Changelist" comment="" />
+      <created>1611705494978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611705494978</updated>
+      <workItem from="1611705496516" duration="2863000" />
+      <workItem from="1611709399215" duration="21254000" />
+      <workItem from="1611733016496" duration="1071000" />
+      <workItem from="1611735054457" duration="6572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="135" key="#ESLint" timestamp="1611709861723">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="362" y="135" key="#ESLint/1280.23.800.577/0.23.1280.735@0.23.1280.735" timestamp="1611709861723" />
+    <state x="249" y="76" key="#Inspections" timestamp="1611709697230">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="249" y="76" key="#Inspections/1280.23.800.577/0.23.1280.735@0.23.1280.735" timestamp="1611709697230" />
+    <state x="124" y="29" key="SettingsEditor" timestamp="1611709261164">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="124" y="29" key="SettingsEditor/1280.23.800.577/0.23.1280.735@0.23.1280.735" timestamp="1611709261164" />
+  </component>
+</project>
